@@ -7,8 +7,8 @@ trigger:
 - main
 
 pool:
-  vmImage: SelfHostedDemo
-
+  name: SelfHostedDemo
+  
 steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
