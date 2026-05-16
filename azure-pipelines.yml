@@ -10,7 +10,7 @@ pool:
   name: SelfHostedDemo
   
 steps:
-- script: echo Hello, world!
+- script: echo Hello, world1111111!
   displayName: 'Run a one-line script'
 
 - script: |
